@@ -4,7 +4,7 @@ Desejo a todos muita saúde e que seja um ano muito prospero para todos.
 E para não perder tempo estou iniciando a jornada de python na workover e postando o meu primeiro aprendizado
 
 
-## 🛠 Linguagens Utilizadas
+## 🛠 Linguagens Utilizada
 PYTHON
 
 
