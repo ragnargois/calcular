@@ -1,4 +1,3 @@
-
 # Feliz Ano novo
 
 Desejo a todos muita saúde e que seja um ano muito prospero para todos.
@@ -11,7 +10,7 @@ PYTHON
 
 ## Screenshots
 
-![App Screenshot](./imgs/print.PNG)
+![App Screenshot](imgs/print.PNG)
 
 
 ## Aprendizados
