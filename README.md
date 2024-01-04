@@ -10,7 +10,7 @@ PYTHON
 
 ## Screenshots
 
-![image](/imgs/printpng)
+![image](salario/imgs/print.png)
 
 
 ## Aprendizados
