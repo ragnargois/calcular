@@ -10,7 +10,7 @@ PYTHON
 
 ## Screenshots
 
-![App Screenshot](imgs/print.PNG)
+![App Screenshot](imgs/print.png)
 
 
 ## Aprendizados
